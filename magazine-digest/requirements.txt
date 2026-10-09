@@ -1,1 +1,1 @@
-ZmVlZHBhcnNlcj49Ni4wLjAKZ29vZ2xlLWFwaS1weXRob24tY2xpZW50Pj0yLjAuMApnb29nbGUtYXV0aD49Mi4wLjAK
+feedparser>=6.0.0
