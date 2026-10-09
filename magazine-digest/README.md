@@ -1,1 +1,32 @@
-IyBFbmdsaXNoIE1hZ2F6aW5lIERpZ2VzdAoK5q+P5aSp5pep5LiK6Ieq5Yqo5oqT5Y+W6Iux5paH5p2C5b+X5a6Y572RIFJTUyDnmoTlhY3otLnmlofnq6DvvIznlJ/miJDkuIDku73mjpLniYjlpb3nmoTpgJ/op4jpobXpnaLvvIwK6YCa6L+HIEdpdEh1YiBQYWdlcyDlj5HluIPmiJDnvZHnq5njgIIKCioq5Zyo57q/5Zyw5Z2AKirvvJpodHRwczovL3lhbmdmZWl5dWUtcGl4ZWwuZ2l0aHViLmlvL2dsb2JhbC1BSS1pbmZvLwoKIyMg5YaF5a655rqQ77yI5Z2H5Li65a6Y572R5ZCI5rOVIFJTU++8iQoKLSBUaGUgTmV3IFlvcmtlciDlhajnq5nvvJpodHRwczovL3d3dy5uZXd5b3JrZXIuY29tL2ZlZWQvcnNzCi0gVGhlIEVjb25vbWlzdCDCtyBUaGUgd29ybGQgdGhpcyB3ZWVr77yaaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS90aGUtd29ybGQtdGhpcy13ZWVrL3Jzcy54bWwKCuWPquaUtuW9leagh+mimOOAgeaRmOimgeWSjOWOn+aWh+mTvuaOpe+8jOS4jeWkjeWItuS7mOi0ueWimeWQjueahOato+aWh+OAggoKIyMg6L+Q6KGM5pa55byPCgpHaXRIdWIgQWN0aW9ucyDmr4/lpKkgMjM6MDAgVVRD77yI5YyX5Lqs5pe26Ze05qyh5pelIDA3OjAw77yJ6Ieq5Yqo6LeR77yMCuS5n+WPr+S7peWcqCBBY3Rpb25zIOmhtemdoueCuSAiUnVuIHdvcmtmbG93IiDmiYvliqjop6blj5HkuIDmrKHjgIIKCiMjIOWQr+eUqCBQYWdlc++8iOWPqumcgOWBmuS4gOasoe+8iQoKMS4g5omT5byA5LuT5bqTIOKGkiBTZXR0aW5ncyDihpIgUGFnZXMKMi4gQnVpbGQgYW5kIGRlcGxveW1lbnQg4oaSIFNvdXJjZSDpgInmi6kgKipHaXRIdWIgQWN0aW9ucyoqCjMuIOS/neWtmOOAgummluasoemDqOe9suaIkOWKn+WQju+8jOS4iumdoueahOWcqOe6v+WcsOWdgOWwseiDveiuv+mXruS6hgoKIyMg5pys5Zyw6aKE6KeICgpgYGBiYXNoCnBpcCBpbnN0YWxsIC1yIG1hZ2F6aW5lLWRpZ2VzdC9yZXF1aXJlbWVudHMudHh0CnB5dGhvbiBtYWdhemluZS1kaWdlc3QvZGlnZXN0LnB5ICAgIyDnlJ/miJAgbWFnYXppbmUtZGlnZXN0L3NpdGUvaW5kZXguaHRtbApvcGVuIG1hZ2F6aW5lLWRpZ2VzdC9zaXRlL2luZGV4Lmh0bWwKYGBgCg==
+# English Magazine Digest
+
+每天早上自动抓取英文杂志官网 RSS 的免费文章，生成一份排版好的速览页面，
+通过 GitHub Pages 发布成网站。
+
+**在线地址**：https://yangfeiyue-pixel.github.io/global-AI-info/
+
+## 内容源（均为官网合法 RSS）
+
+- The New Yorker 全站：https://www.newyorker.com/feed/rss
+- The Economist · The world this week：https://www.economist.com/the-world-this-week/rss.xml
+
+只收录标题、摘要和原文链接，不复制付费墙后的正文。
+
+## 运行方式
+
+GitHub Actions 每天 23:00 UTC（北京时间次日 07:00）自动跑，
+也可以在 Actions 页面点 "Run workflow" 手动触发一次。
+
+## 启用 Pages（只需做一次）
+
+1. 打开仓库 → Settings → Pages
+2. Build and deployment → Source 选择 **GitHub Actions**
+3. 保存。首次部署成功后，上面的在线地址就能访问了
+
+## 本地预览
+
+```bash
+pip install -r magazine-digest/requirements.txt
+python magazine-digest/digest.py   # 生成 magazine-digest/site/index.html
+open magazine-digest/site/index.html
+```
