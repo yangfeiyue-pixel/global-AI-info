@@ -1,1 +1,137 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJEYWlseSBFbmdsaXNoIG1hZ2F6aW5lIGRpZ2VzdCAtPiBzdGF0aWMgd2Vic2l0ZSAoR2l0SHViIFBhZ2VzKS4KClNvdXJjZXMgKGFsbCBsZWdpdGltYXRlIG9mZmljaWFsIFJTUyBmZWVkcywgZnJlZSBhcnRpY2xlcyBvbmx5KToKICAtIFRoZSBOZXcgWW9ya2VyOiBodHRwczovL3d3dy5uZXd5b3JrZXIuY29tL2ZlZWQvcnNzCiAgLSBUaGUgRWNvbm9taXN0IC8gVGhlIHdvcmxkIHRoaXMgd2VlazogaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS90aGUtd29ybGQtdGhpcy13ZWVrL3Jzcy54bWwKCk91dHB1dDogbWFnYXppbmUtZGlnZXN0L3NpdGUvaW5kZXguaHRtbCDigJQgYSBtb2JpbGUtZnJpZW5kbHkgZGlnZXN0IHBhZ2UuCk9ubHkgaGVhZGxpbmVzLCBzdW1tYXJpZXMgYW5kIGxpbmtzIGFyZSBwdWJsaXNoZWQ7IG5vIHBheXdhbGxlZCBjb250ZW50LgoiIiIKCmltcG9ydCBkYXRldGltZQppbXBvcnQgaHRtbAppbXBvcnQgb3MKaW1wb3J0IHJlCmltcG9ydCBzeXMKCmltcG9ydCBmZWVkcGFyc2VyCgpGRUVEUyA9IFsKICAgICgiVGhlIE5ldyBZb3JrZXIiLCAiaHR0cHM6Ly93d3cubmV3eW9ya2VyLmNvbS9mZWVkL3JzcyIsIDE1KSwKICAgICgiVGhlIEVjb25vbWlzdCDCtyBUaGUgd29ybGQgdGhpcyB3ZWVrIiwKICAgICAiaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS90aGUtd29ybGQtdGhpcy13ZWVrL3Jzcy54bWwiLCAxNSksCl0KCk1BWF9TVU1NQVJZX0NIQVJTID0gMjgwClNJVEVfRElSID0gb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSwgInNpdGUiKQoKCmRlZiBjbGVhbih0ZXh0KToKICAgIHRleHQgPSBodG1sLnVuZXNjYXBlKHRleHQgb3IgIiIpCiAgICB0ZXh0ID0gcmUuc3ViKHIiPFtePl0rPiIsICIiLCB0ZXh0KQogICAgdGV4dCA9IHJlLnN1YihyIlxzKyIsICIgIiwgdGV4dCkuc3RyaXAoKQogICAgaWYgbGVuKHRleHQpID4gTUFYX1NVTU1BUllfQ0hBUlM6CiAgICAgICAgdGV4dCA9IHRleHRbOk1BWF9TVU1NQVJZX0NIQVJTXS5yc3RyaXAoKSArICLigKYiCiAgICByZXR1cm4gdGV4dAoKCmRlZiBmZXRjaF9mZWVkKG5hbWUsIHVybCwgbGltaXQpOgogICAgcHJpbnQoIkZldGNoaW5nICVzIC4uLiIgJSBuYW1lKQogICAgdHJ5OgogICAgICAgIGZwID0gZmVlZHBhcnNlci5wYXJzZSh1cmwsIHJlcXVlc3RfaGVhZGVycz17IlVzZXItQWdlbnQiOiAibWFnYXppbmUtZGlnZXN0LzEuMCJ9KQogICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgIHByaW50KCIgIGZhaWxlZDogJXMiICUgZSkKICAgICAgICByZXR1cm4gW10KICAgIGl0ZW1zID0gW10KICAgIGZvciBlIGluIGZwLmVudHJpZXNbOmxpbWl0XToKICAgICAgICBpdGVtcy5hcHBlbmQoewogICAgICAgICAgICAidGl0bGUiOiBjbGVhbihnZXRhdHRyKGUsICJ0aXRsZSIsICJ1bnRpdGxlZCIpKSwKICAgICAgICAgICAgImxpbmsiOiBnZXRhdHRyKGUsICJsaW5rIiwgIiIpLAogICAgICAgICAgICAicHVibGlzaGVkIjogY2xlYW4oZ2V0YXR0cihlLCAicHVibGlzaGVkIiwgIiIpKVs6MzJdLAogICAgICAgICAgICAic3VtbWFyeSI6IGNsZWFuKGdldGF0dHIoZSwgInN1bW1hcnkiLCBnZXRhdHRyKGUsICJkZXNjcmlwdGlvbiIsICIiKSkpLAogICAgICAgIH0pCiAgICBwcmludCgiICBnb3QgJWQgaXRlbXMiICUgbGVuKGl0ZW1zKSkKICAgIHJldHVybiBpdGVtcwoKClBBR0VfVEVNUExBVEUgPSAiIiI8IURPQ1RZUEUgaHRtbD4KPGh0bWwgbGFuZz0iZW4iPgo8aGVhZD4KPG1ldGEgY2hhcnNldD0iVVRGLTgiPgo8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEuMCI+Cjx0aXRsZT5FbmdsaXNoIE1hZ2F6aW5lIERpZ2VzdCDCtyB7ZGF0ZX08L3RpdGxlPgo8c3R5bGU+CiAgKiB7eyBib3gtc2l6aW5nOiBib3JkZXItYm94OyBtYXJnaW46IDA7IHBhZGRpbmc6IDA7IH19CiAgYm9keSB7eyBmb250LWZhbWlseTogR2VvcmdpYSwgJ1RpbWVzIE5ldyBSb21hbicsIHNlcmlmOyBiYWNrZ3JvdW5kOiAjZmFmOWY3OwogICAgICAgICBjb2xvcjogIzFhMWExYTsgbGluZS1oZWlnaHQ6IDEuNjsgcGFkZGluZzogMjRweCAxNnB4IDY0cHg7IH19CiAgLndyYXAge3sgbWF4LXdpZHRoOiA3NjBweDsgbWFyZ2luOiAwIGF1dG87IH19CiAgaGVhZGVyIHt7IHRleHQtYWxpZ246IGNlbnRlcjsgbWFyZ2luLWJvdHRvbTogMzZweDsgcGFkZGluZy1ib3R0b206IDI0cHg7CiAgICAgICAgICAgIGJvcmRlci1ib3R0b206IDNweCBkb3VibGUgIzFhMWExYTsgfX0KICBoZWFkZXIgaDEge3sgZm9udC1zaXplOiAyOHB4OyBsZXR0ZXItc3BhY2luZzogMC4wMmVtOyB9fQogIGhlYWRlciBwIHt7IGNvbG9yOiAjNmI2YjZiOyBmb250LXNpemU6IDE0cHg7IG1hcmdpbi10b3A6IDhweDsKICAgICAgICAgICAgICBmb250LWZhbWlseTogLWFwcGxlLXN5c3RlbSwgc2Fucy1zZXJpZjsgfX0KICBoMiB7eyBmb250LXNpemU6IDIwcHg7IG1hcmdpbjogMzJweCAwIDE2cHg7IHBhZGRpbmctYm90dG9tOiA4cHg7CiAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNkZGQ7IH19CiAgYXJ0aWNsZSB7eyBiYWNrZ3JvdW5kOiAjZmZmOyBib3JkZXI6IDFweCBzb2xpZCAjZThlNmUxOyBib3JkZXItcmFkaXVzOiA4cHg7CiAgICAgICAgICAgICBwYWRkaW5nOiAxNnB4IDE4cHg7IG1hcmdpbi1ib3R0b206IDE0cHg7IH19CiAgYXJ0aWNsZSBoMyB7eyBmb250LXNpemU6IDE3cHg7IGxpbmUtaGVpZ2h0OiAxLjQ1OyBtYXJnaW4tYm90dG9tOiA2cHg7IH19CiAgYXJ0aWNsZSBoMyBhIHt7IGNvbG9yOiAjMWExYTFhOyB0ZXh0LWRlY29yYXRpb246IG5vbmU7IH19CiAgYXJ0aWNsZSBoMyBhOmhvdmVyIHt7IHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lOyB9fQogIC5tZXRhIHt7IGZvbnQtc2l6ZTogMTJweDsgY29sb3I6ICM5OTk7IGZvbnQtZmFtaWx5OiAtYXBwbGUtc3lzdGVtLCBzYW5zLXNlcmlmOwogICAgICAgICAgIG1hcmdpbi1ib3R0b206IDhweDsgfX0KICAuc3VtIHt7IGZvbnQtc2l6ZTogMTRweDsgY29sb3I6ICM0NDQ7IGZvbnQtZmFtaWx5OiAtYXBwbGUtc3lzdGVtLCBzYW5zLXNlcmlmOyB9fQogIGZvb3RlciB7eyB0ZXh0LWFsaWduOiBjZW50ZXI7IGNvbG9yOiAjYWFhOyBmb250LXNpemU6IDEycHg7IG1hcmdpbi10b3A6IDQ4cHg7CiAgICAgICAgICAgIGZvbnQtZmFtaWx5OiAtYXBwbGUtc3lzdGVtLCBzYW5zLXNlcmlmOyB9fQo8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5Pgo8ZGl2IGNsYXNzPSJ3cmFwIj4KPGhlYWRlcj4KICA8aDE+RW5nbGlzaCBNYWdhemluZSBEaWdlc3Q8L2gxPgogIDxwPntkYXRlfSDCtyDmr4/ml6Xoi7HmlofmnYLlv5flhY3otLnmlofnq6DpgJ/op4ggwrcg5qCH6aKYK+aRmOimgSvljp/mlofpk77mjqU8L3A+CjwvaGVhZGVyPgp7c2VjdGlvbnN9Cjxmb290ZXI+R2VuZXJhdGVkIGRhaWx5IGJ5IG1hZ2F6aW5lLWRpZ2VzdCDCtyBzb3VyY2VzOiBvZmZpY2lhbCBSU1MgZmVlZHM8L2Zvb3Rlcj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPgoiIiIKCgpkZWYgYnVpbGRfaHRtbChzZWN0aW9ucywgZGF0ZSk6CiAgICBwYXJ0cyA9IFtdCiAgICBmb3IgbmFtZSwgaXRlbXMgaW4gc2VjdGlvbnM6CiAgICAgICAgcGFydHMuYXBwZW5kKCI8aDI+JXMgPHNwYW4gc3R5bGU9J2NvbG9yOiM5OTk7Zm9udC1zaXplOjE0cHg7Jz4lZDwvc3Bhbj48L2gyPiIKICAgICAgICAgICAgICAgICAgICAgJSAoaHRtbC5lc2NhcGUobmFtZSksIGxlbihpdGVtcykpKQogICAgICAgIGlmIG5vdCBpdGVtczoKICAgICAgICAgICAgcGFydHMuYXBwZW5kKCI8cCBzdHlsZT0nY29sb3I6Izk5OTsnPuS7iuaXpeaaguaXoOabtOaWsDwvcD4iKQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGZvciBpdCBpbiBpdGVtczoKICAgICAgICAgICAgcGFydHMuYXBwZW5kKAogICAgICAgICAgICAgICAgIjxhcnRpY2xlPjxoMz48YSBocmVmPVwie2xpbmt9XCIgdGFyZ2V0PVwiX2JsYW5rXCIgcmVsPVwibm9vcGVuZXJcIj57dGl0bGV9PC9hPjwvaDM+IgogICAgICAgICAgICAgICAgIjxkaXYgY2xhc3M9XCJtZXRhXCI+e3B1Yn08L2Rpdj4iCiAgICAgICAgICAgICAgICAiPGRpdiBjbGFzcz1cInN1bVwiPntzdW1tYXJ5fTwvZGl2PjwvYXJ0aWNsZT4iLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICBsaW5rPWh0bWwuZXNjYXBlKGl0WyJsaW5rIl0sIHF1b3RlPVRydWUpLAogICAgICAgICAgICAgICAgICAgIHRpdGxlPWh0bWwuZXNjYXBlKGl0WyJ0aXRsZSJdKSwKICAgICAgICAgICAgICAgICAgICBwdWI9aHRtbC5lc2NhcGUoaXRbInB1Ymxpc2hlZCJdKSwKICAgICAgICAgICAgICAgICAgICBzdW1tYXJ5PWh0bWwuZXNjYXBlKGl0WyJzdW1tYXJ5Il0pLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCiAgICByZXR1cm4gUEFHRV9URU1QTEFURS5mb3JtYXQoZGF0ZT1kYXRlLCBzZWN0aW9ucz0iXG4iLmpvaW4ocGFydHMpKQoKCmRlZiBtYWluKCk6CiAgICBzZWN0aW9ucyA9IFsobmFtZSwgZmV0Y2hfZmVlZChuYW1lLCB1cmwsIGxpbWl0KSkgZm9yIG5hbWUsIHVybCwgbGltaXQgaW4gRkVFRFNdCiAgICB0b2RheSA9IGRhdGV0aW1lLmRhdGUudG9kYXkoKS5pc29mb3JtYXQoKQogICAgcGFnZSA9IGJ1aWxkX2h0bWwoc2VjdGlvbnMsIHRvZGF5KQogICAgb3MubWFrZWRpcnMoU0lURV9ESVIsIGV4aXN0X29rPVRydWUpCiAgICBvdXQgPSBvcy5wYXRoLmpvaW4oU0lURV9ESVIsICJpbmRleC5odG1sIikKICAgIHdpdGggb3BlbihvdXQsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZmg6CiAgICAgICAgZmgud3JpdGUocGFnZSkKICAgIHByaW50KCJXcm90ZSAlcyAoJWQgYnl0ZXMpIiAlIChvdXQsIGxlbihwYWdlLmVuY29kZSgidXRmLTgiKSkpKQogICAgcmV0dXJuIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+#!/usr/bin/env python3
+"""Daily English magazine digest -> static website (GitHub Pages).
+
+Sources (all legitimate official RSS feeds, free articles only):
+  - The New Yorker: https://www.newyorker.com/feed/rss
+  - The Economist / The world this week: https://www.economist.com/the-world-this-week/rss.xml
+
+Output: magazine-digest/site/index.html — a mobile-friendly digest page.
+Only headlines, summaries and links are published; no paywalled content.
+"""
+
+import datetime
+import html
+import os
+import re
+import sys
+
+import feedparser
+
+FEEDS = [
+    ("The New Yorker", "https://www.newyorker.com/feed/rss", 15),
+    ("The Economist · The world this week",
+     "https://www.economist.com/the-world-this-week/rss.xml", 15),
+]
+
+MAX_SUMMARY_CHARS = 280
+SITE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "site")
+
+
+def clean(text):
+    text = html.unescape(text or "")
+    text = re.sub(r"<[^>]+>", "", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) > MAX_SUMMARY_CHARS:
+        text = text[:MAX_SUMMARY_CHARS].rstrip() + "…"
+    return text
+
+
+def fetch_feed(name, url, limit):
+    print("Fetching %s ..." % name)
+    try:
+        fp = feedparser.parse(url, request_headers={"User-Agent": "magazine-digest/1.0"})
+    except Exception as e:
+        print("  failed: %s" % e)
+        return []
+    items = []
+    for e in fp.entries[:limit]:
+        items.append({
+            "title": clean(getattr(e, "title", "untitled")),
+            "link": getattr(e, "link", ""),
+            "published": clean(getattr(e, "published", ""))[:32],
+            "summary": clean(getattr(e, "summary", getattr(e, "description", ""))),
+        })
+    print("  got %d items" % len(items))
+    return items
+
+
+PAGE_TEMPLATE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English Magazine Digest · {date}</title>
+<style>
+  * {{ box-sizing: border-box; margin: 0; padding: 0; }}
+  body {{ font-family: Georgia, 'Times New Roman', serif; background: #faf9f7;
+         color: #1a1a1a; line-height: 1.6; padding: 24px 16px 64px; }}
+  .wrap {{ max-width: 760px; margin: 0 auto; }}
+  header {{ text-align: center; margin-bottom: 36px; padding-bottom: 24px;
+            border-bottom: 3px double #1a1a1a; }}
+  header h1 {{ font-size: 28px; letter-spacing: 0.02em; }}
+  header p {{ color: #6b6b6b; font-size: 14px; margin-top: 8px;
+              font-family: -apple-system, sans-serif; }}
+  h2 {{ font-size: 20px; margin: 32px 0 16px; padding-bottom: 8px;
+        border-bottom: 1px solid #ddd; }}
+  article {{ background: #fff; border: 1px solid #e8e6e1; border-radius: 8px;
+             padding: 16px 18px; margin-bottom: 14px; }}
+  article h3 {{ font-size: 17px; line-height: 1.45; margin-bottom: 6px; }}
+  article h3 a {{ color: #1a1a1a; text-decoration: none; }}
+  article h3 a:hover {{ text-decoration: underline; }}
+  .meta {{ font-size: 12px; color: #999; font-family: -apple-system, sans-serif;
+           margin-bottom: 8px; }}
+  .sum {{ font-size: 14px; color: #444; font-family: -apple-system, sans-serif; }}
+  footer {{ text-align: center; color: #aaa; font-size: 12px; margin-top: 48px;
+            font-family: -apple-system, sans-serif; }}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>English Magazine Digest</h1>
+  <p>{date} · 每日英文杂志免费文章速览 · 标题+摘要+原文链接</p>
+</header>
+{sections}
+<footer>Generated daily by magazine-digest · sources: official RSS feeds</footer>
+</div>
+</body>
+</html>
+"""
+
+
+def build_html(sections, date):
+    parts = []
+    for name, items in sections:
+        parts.append("<h2>%s <span style='color:#999;font-size:14px;'>%d</span></h2>"
+                     % (html.escape(name), len(items)))
+        if not items:
+            parts.append("<p style='color:#999;'>今日暂无更新</p>")
+            continue
+        for it in items:
+            parts.append(
+                "<article><h3><a href=\"{link}\" target=\"_blank\" rel=\"noopener\">{title}</a></h3>"
+                "<div class=\"meta\">{pub}</div>"
+                "<div class=\"sum\">{summary}</div></article>".format(
+                    link=html.escape(it["link"], quote=True),
+                    title=html.escape(it["title"]),
+                    pub=html.escape(it["published"]),
+                    summary=html.escape(it["summary"]),
+                )
+            )
+    return PAGE_TEMPLATE.format(date=date, sections="\n".join(parts))
+
+
+def main():
+    sections = [(name, fetch_feed(name, url, limit)) for name, url, limit in FEEDS]
+    today = datetime.date.today().isoformat()
+    page = build_html(sections, today)
+    os.makedirs(SITE_DIR, exist_ok=True)
+    out = os.path.join(SITE_DIR, "index.html")
+    with open(out, "w", encoding="utf-8") as fh:
+        fh.write(page)
+    print("Wrote %s (%d bytes)" % (out, len(page.encode("utf-8"))))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
